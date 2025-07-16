@@ -2,6 +2,9 @@
 
 A comprehensive MuJoCo MJCF (MuJoCo Modeling XML Format) model of the Dropbear humanoid robot, featuring detailed mechanical components, electronics, and a complete simulation environment.
 
+https://github.com/user-attachments/assets/e93272bf-6c66-4bb6-bac3-c0b725a8e7bc
+
+
 ## Overview
 
 The Dropbear humanoid robot is a sophisticated bipedal robot model designed for MuJoCo physics simulation. This model includes:
