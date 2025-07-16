@@ -3,7 +3,7 @@
 A comprehensive MuJoCo MJCF (MuJoCo Modeling XML Format) model of the Dropbear humanoid robot, featuring detailed mechanical components, electronics, and a complete simulation environment.
 
 https://github.com/user-attachments/assets/e93272bf-6c66-4bb6-bac3-c0b725a8e7bc
-
+#### Note: Mujoco does not support closed loop kinematics chain which we have used in our urdf and sdf files to simulate in gazebo, so, while controlling the actuators, the link are going to break off. I'm still tryna figure out best way to refine the mjcf to not have the links break off while controlling.
 
 ## Overview
 
